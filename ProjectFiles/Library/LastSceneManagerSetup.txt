@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Numbers Exercise/Number Tracing/NumberTracing.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
